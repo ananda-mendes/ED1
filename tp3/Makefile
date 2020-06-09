@@ -14,3 +14,5 @@ clean:
 	rm -f *.o main
 run:
 	./main < input.txt > output.txt
+
+
