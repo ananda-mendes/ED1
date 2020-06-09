@@ -11,3 +11,5 @@ O material contém  assuntos como:
 -  Algoritmos de ordenação por comparação de chaves: seleção, inserção, bolha, shellsort, quicksort, mergesort, heapsort;
 - Algoritmos de ordenação em tempo linear: counting sort, radix sort e bucket sort;
 - Algoritmos de pesquisa: simples, binária, árvores binárias de busca e hashing.
+
+
